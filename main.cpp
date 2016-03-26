@@ -1,9 +1,6 @@
-//  arrayContainer.cpp
 //  ArrayContainer
 //
 //  Created by Ben Masi on 10/1/15.
-//  Copyright (c) 2015 Ben Masi. All rights reserved.
-//
 
 #include <iostream>
 
